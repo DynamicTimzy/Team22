@@ -1,0 +1,2 @@
+Devops tool- Ansible useful for automating software testing, performance, development and deployment.
+Git command : git checkout <branch> useful for switching to a branch & update the working directory.
